@@ -1,0 +1,12 @@
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "CafeXL",
+    "entryPoint": "source/cafexl.py",
+    "categories": ["decompilation", "file-parsers-and-loaders"],
+    "logoPath": "images/logo.png",
+    "idaVersions": "7.5 - 8.3",
+    "description": "A Work in Progress IDA 9.X Loader for loading rpx/rpl binaries with ghs & ppc-gcc (devkitpro) support",
+    "version": "0.0.1"
+  }
+}
